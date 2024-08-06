@@ -13,5 +13,4 @@ if (config.use_env_variable) {
 const db = initModels(sequelize);
 db.sequelize = sequelize;
 db.Sequelize = Sequelize;
-
 module.exports = db;
