@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin#Aswar2002",
+    "database": "FundHivedb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin#Aswar2002",
+    "database": "FundHivedb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "admin#Aswar2002",
+    "database": "FundHivedb",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
